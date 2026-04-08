@@ -2,14 +2,14 @@
 
 A single-file, offline-capable web app for tracking the 2026 FIFA World Cup — enter group results, watch the bracket auto-fill, and plan which matches you're attending or watching.
 
-No server, no login, no dependencies. Just open `fifa_2026.html` in a browser.
+No server, no login, no dependencies. Just open `index.html` in a browser, or visit the live app at **https://krishnarajrnair.github.io/worldcupplanner**.
 
 ---
 
 ## Getting Started
 
 1. Download or clone this repository
-2. Open `fifa_2026.html` in any modern browser (Chrome, Firefox, Edge, Safari)
+2. Open `index.html` in any modern browser (Chrome, Firefox, Edge, Safari)
 3. All data is saved automatically in your browser's **localStorage** — it persists across sessions on the same device
 
 > **Note:** The timezone selector and most features work fine from a local file. The file can also be served from any static host (GitHub Pages, Netlify, etc.).
